@@ -9,5 +9,7 @@ namespace OpgaveC
         int Shoot();
 
         void Reload();
+
+        int GetBulletsLeft();
     }
 }
