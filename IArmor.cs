@@ -8,6 +8,6 @@ namespace OpgaveC
     {
         int GetRemainingArmor();
 
-        void ReduceArmor();
+        void ReduceArmor(int damageAmount);
     }
 }
